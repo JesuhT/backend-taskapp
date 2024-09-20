@@ -1,0 +1,1 @@
+export const company = "66ddbc6e73f76bebfd02621b"
